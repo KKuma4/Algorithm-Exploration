@@ -5,7 +5,7 @@
 Will be using Markdown for this 'page'. Link for help : https://guides.github.com/features/mastering-markdown/. 
 
 <h1> Pyramix Duo </h4>
-![Image of Pyamix Duo](https://cdn.shopify.com/s/files/1/0708/4397/products/1526638529ARW_large.JPG?v=1542910770)
+[Image of Pyamix Duo](https://cdn.shopify.com/s/files/1/0708/4397/products/1526638529ARW_large.JPG?v=1542910770)
  
  Number of Attempts | Average Time (seconds)
  -------------------|---------
