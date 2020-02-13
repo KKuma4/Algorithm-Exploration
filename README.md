@@ -5,8 +5,8 @@
 Will be using Markdown for this 'page'. Link for help : https://guides.github.com/features/mastering-markdown/. 
 
 <h4> Pyramix Duo </h4>
-![Pyramix Duo] (https://www.maskecubos.com/4979-large_default/lefun-pyraminx-duo.jpg)
- 
+
+ <img src="https://www.maskecubos.com/4979-large_default/lefun-pyraminx-duo.jpg">
 
 Number of Attempts | Average Time (seconds)
  -------------------|---------
