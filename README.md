@@ -7,7 +7,8 @@ Will be using Markdown for this 'page'. Link for help : https://guides.github.co
 <h4> Pyramix Duo </h4>
 [Image of Pyamix Duo](https://www.maskecubos.com/4979-large_default/lefun-pyraminx-duo.jpg)
  
- >Number of Attempts | Average Time (seconds)
+
+Number of Attempts | Average Time (seconds)
  -------------------|---------
 5     |   12.01
 12 | 12.37 
