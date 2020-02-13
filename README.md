@@ -1,10 +1,10 @@
 # Algorithm-Exploration
 # <h4> Solving various puzzles and timing them for a Computer Science Project. </h4>
-<h4> This page's sole purpose is to record my progress with these puzzles. 
+<h4> This page's sole purpose is to record my progress with these puzzles. </h4>
 
 Will be using Markdown for this 'page'. Link for help : https://guides.github.com/features/mastering-markdown/. 
 
-<h1> Pyramix Duo </h4>
+<h4> Pyramix Duo </h4>
 [Image of Pyamix Duo](https://www.maskecubos.com/4979-large_default/lefun-pyraminx-duo.jpg)
  
  Number of Attempts | Average Time (seconds)
