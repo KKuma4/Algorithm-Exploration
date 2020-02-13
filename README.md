@@ -14,4 +14,4 @@ Will be using Markdown for this 'page'. Link for help : https://guides.github.co
 25 | remains to be done 
 
 Daily Checklist (Feb 13th)
-- [] Need to complete average of 25 for Pyramix Duo
+- [ ] Need to complete average of 25 for Pyramix Duo
