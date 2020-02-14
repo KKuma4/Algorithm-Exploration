@@ -6,7 +6,7 @@ Will be using Markdown for this 'page'. Link for help : https://guides.github.co
 
 <h4> Pyramix Duo </h4>
 
-<img src="https://www.maskecubos.com/4979-large_default/lefun-pyraminx-duo.jpg" alt = "Image of Pyramix Duo">
+<img align = right src="https://www.maskecubos.com/4979-large_default/lefun-pyraminx-duo.jpg" alt = "Image of Pyramix Duo">
 
 Number of Attempts | Average Time (seconds)
  -------------------|---------
