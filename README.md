@@ -10,8 +10,8 @@ Number of Attempts | Average Time (seconds)
  -------------------|---------
 5     |   12.01
 12 | 12.37 
-25 | remains to be done 
+25 | 12.37
 
 Daily Checklist (Feb 13th)
-- [ ] Need to complete average of 25 for Pyramix Duo
-- [ ] Start learning the actual Pyramix
+- [X] Need to complete average of 25 for Pyramix Duo
+- [X] Start learning the actual Pyramix
