@@ -1,6 +1,7 @@
 # Algorithm-Exploration
 # Solving various puzzles and timing them for a Computer Science Project.
-This page's sole purpose is to record my progress with these puzzles.
+
+**This page's sole purpose is to record my progress with these puzzles.**
 
 Will be using Markdown for this repository. Link for help in markdown : https://guides.github.com/features/mastering-markdown/. 
 
