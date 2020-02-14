@@ -5,9 +5,6 @@ This page's sole purpose is to record my progress with these puzzles.
 Will be using Markdown for this 'page'. Link for help : https://guides.github.com/features/mastering-markdown/. 
 
 <h4> Pyramix Duo </h4>
-
-![Image of Pyramix Duo][https:lefun-pyraminx-duo.jpg]
-
 Number of Attempts | Average Time (seconds)
  -------------------|---------
 5     |   12.01
