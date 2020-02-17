@@ -31,7 +31,7 @@ Find the common 'side' of a chosen color by tracking the edges and the location 
 
 _Solution_: U L' R' U
 
-_Sources_: 
+Sources: 
 [Z3Cubing on Pyramix!] (http://youtube.com/watch?reload=9&v=P-Zt7GEyYuE)
 
 # Daily Checklist 
