@@ -13,6 +13,15 @@ Number of Attempts | Average Time (seconds)
 12 | 12.37 
 25 | 12.37
 
-Daily Checklist (Feb 13th)
-- [X] Need to complete average of 25 for Pyramix Duo
-- [X] Start learning the actual Pyramix
+Daily Checklist 
+# Feburary 13th 
+- [X] Complete average of 25 for Pyramix Duo
+- [X] Start learning the 4x4x4 Pyramix 
+
+# Feburary 14th 
+- [X] Record average times of the Pyramix 
+- [X] Start practising Pyramix algorithms 
+
+# Feburary 16 
+- [ ] Start with the 2x2x2 Cube
+
