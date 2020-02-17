@@ -69,6 +69,7 @@ _Solution_ : L R' L' R U' R U R'
 Lastly, the **'Headlight' Algorithm** where two edge pieces are the same color but in a different side, with the edge's color side being in the left or the right of the Pyraminx. Solution as follows.
 
 _Right_: R U R' U R U R'
+
 _left_ : R U' R' U R' U' R
 
 
