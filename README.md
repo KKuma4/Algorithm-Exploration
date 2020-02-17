@@ -5,7 +5,7 @@
 
 Will be using Markdown for this repository. Link for help in markdown : https://guides.github.com/features/mastering-markdown/. 
 
-<h4> Pyramix Duo </h4>
+### Pyramix Duo
 
 **Overall**
 
