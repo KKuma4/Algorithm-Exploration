@@ -41,11 +41,15 @@ Number of Attempts | Average Time (seconds)
 5     |   96.09
 12 | 81.01
 25 | 82.00
-### Techniques Used 
-
-#### Layer by Layer Method 
+### Techniques Used : Layer By Layer 
 
 Involves finding the right sides for each color by solving for the centre pieces. No specific algorithm as this requires observation and planning ahead. 
+
+Then in order to fill the edges of the sides, align the piece with the side's color and the color of the 'base'. Align three pieces with the same color, making a 'block' and follow this algorithm. 
+
+_Left_ : R U' R
+
+_Right_ : L' U L 
 
 Sources : [Z3Cubing on Pyramix Beginner](https://www.youtube.com/watch?v=xIQtn2qazvg), [Noah Richardson on Pyramix](https://www.youtube.com/watch?v=2H0FUvaaUsI)
 
