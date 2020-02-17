@@ -17,8 +17,8 @@ Number of Attempts | Average Time (seconds)
 
 ### Techniques used for minimal moves 
 
-Maximum Moves - 5 
-Optimal - 4 
+> Maximum Moves - 5 
+> Optimal - 4 
 
 
 
