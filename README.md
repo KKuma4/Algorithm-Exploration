@@ -64,6 +64,14 @@ Lastly, when the pieces are in the right place but the color is 'flipped' and th
 
 _Solution_ : L R' L' R U' R U R'
 
+![Image of Pyraminx](https://i.ytimg.com/vi/BzsKT6Uayfs/maxresdefault.jpg)
+
+Lastly, the **'Headlight' Algorithm** where two edge pieces are the same color but in a different side, with the edge's color side being in the left or the right of the Pyraminx. Solution as follows.
+
+_Right_: R U R' U R U R'
+_left_ : R U' R' U R' U' R
+
+
 Sources : [Z3Cubing on Pyramix Beginner](https://www.youtube.com/watch?v=xIQtn2qazvg), [Noah Richardson on Pyramix](https://www.youtube.com/watch?v=2H0FUvaaUsI) and [Ruwix on Pyraminx Puzzle](https://ruwix.com/twisty-puzzles/pyraminx-triangle-rubiks-cube/)
 
 
