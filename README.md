@@ -42,7 +42,7 @@ Number of Attempts | Average Time (seconds)
  -------------------|---------
 5     |   96.09
 12 | 81.01
-25 | tbh
+25 | 82.00
 
 
 # Daily Checklist 
