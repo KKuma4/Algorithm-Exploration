@@ -51,6 +51,10 @@ _Left_ : R U' R
 
 _Right_ : L' U L 
 
+When the pieces are in the right place but the color is 'flipped' and the rest of the pieces are in the correct position, follow this algorithm. 
+
+L R' L' R U' R U R'
+
 Sources : [Z3Cubing on Pyramix Beginner](https://www.youtube.com/watch?v=xIQtn2qazvg), [Noah Richardson on Pyramix](https://www.youtube.com/watch?v=2H0FUvaaUsI)
 
 
