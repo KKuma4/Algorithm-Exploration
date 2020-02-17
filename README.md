@@ -17,8 +17,7 @@ Number of Attempts | Average Time (seconds)
 
 ### Techniques used for minimal moves 
 
-> Maximum Moves - 5 
-> Optimal - 4 
+
 
 
 
@@ -30,7 +29,9 @@ Number of Attempts | Average Time (seconds)
 **Feburary 14th**
 - [X] Record average times of the Pyramix 
 - [X] Start practising Pyramix algorithms 
+- [X] Solve a Pyramix 
 
 **Feburary 16**
-- [ ] Start with the 2x2x2 Cube
+- [ ] Start with optimal solutions of the Pyramix 
+- [ ] Record times of the Pyramix 
 
