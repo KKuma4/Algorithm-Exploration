@@ -53,9 +53,17 @@ _Left_ : R U' R
 
 _Right_ : L' U L 
 
-When the pieces are in the right place but the color is 'flipped' and the rest of the pieces are in the correct position, follow this algorithm. 
+![Image of Pyraminx](https://ruwix.com/pics/puzzles/pyraminx/solving-last-layer-pyraminx-algorithm.jpg)
 
-L R' L' R U' R U R'
+Referring to the image above, 
+
+_Clockwise cycle_: U' R U R'
+
+_Counter-clockwise cycle_ : U L' U' L
+
+Lastly, when the pieces are in the right place but the color is 'flipped' and the rest of the pieces are in the correct position, follow this algorithm. 
+
+_Solution_ : L R' L' R U' R U R'
 
 Sources : [Z3Cubing on Pyramix Beginner](https://www.youtube.com/watch?v=xIQtn2qazvg), [Noah Richardson on Pyramix](https://www.youtube.com/watch?v=2H0FUvaaUsI)
 
