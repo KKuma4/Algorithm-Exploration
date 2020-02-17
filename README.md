@@ -47,6 +47,8 @@ Involves finding the right sides for each color by solving for the centre pieces
 
 Then in order to fill the edges of the sides, align the piece with the side's color and the color of the 'base'. Align three pieces with the same color, making a 'block' and follow this algorithm. 
 
+![Image of Pyraminx](https://ruwix.com/pics/puzzles/pyraminx/pyraminx-solve-top-layer-edges.jpg)
+
 _Left_ : R U' R
 
 _Right_ : L' U L 
