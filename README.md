@@ -65,7 +65,7 @@ Lastly, when the pieces are in the right place but the color is 'flipped' and th
 
 _Solution_ : L R' L' R U' R U R'
 
-Sources : [Z3Cubing on Pyramix Beginner](https://www.youtube.com/watch?v=xIQtn2qazvg), [Noah Richardson on Pyramix](https://www.youtube.com/watch?v=2H0FUvaaUsI)
+Sources : [Z3Cubing on Pyramix Beginner](https://www.youtube.com/watch?v=xIQtn2qazvg), [Noah Richardson on Pyramix](https://www.youtube.com/watch?v=2H0FUvaaUsI) and [Ruwix on Pyraminx Puzzle](https://ruwix.com/twisty-puzzles/pyraminx-triangle-rubiks-cube/)
 
 
 
