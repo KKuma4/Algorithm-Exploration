@@ -32,7 +32,7 @@ Find the common 'side' of a chosen color by tracking the edges and the location 
 _Solution_: U L' R' U
 
 Sources: 
-[Z3Cubing on Pyramix!] (http://youtube.com/watch?reload=9&v=P-Zt7GEyYuE)
+[Z3Cubing on Pyramix Duo and Optimal moves!](http://youtube.com/watch?reload=9&v=P-Zt7GEyYuE)
 
 # Daily Checklist 
 **Feburary 13th**
