@@ -36,12 +36,12 @@ Sources:
 
 ## Pyramix (4x4x4)
 
-**First Trials**
+**First Trials (Unoptimal moves used) **
 
 Number of Attempts | Average Time (seconds)
  -------------------|---------
-5     |   96
-12 | 81
+5     |   96.09
+12 | 81.01
 25 | tbh
 
 
