@@ -5,7 +5,7 @@
 
 Will be using Markdown for this repository. Link for help in markdown : https://guides.github.com/features/mastering-markdown/. 
 
-### Pyramix Duo
+## Pyramix Duo
 
 **Overall**
 
@@ -33,6 +33,17 @@ _Solution_: U L' R' U
 
 Sources: 
 [Z3Cubing on Pyramix Duo and Optimal moves!](http://youtube.com/watch?reload=9&v=P-Zt7GEyYuE)
+
+## Pyramix (4x4x4)
+
+**First Trials**
+
+Number of Attempts | Average Time (seconds)
+ -------------------|---------
+5     |   96
+12 | 81
+25 | tbh
+
 
 # Daily Checklist 
 **Feburary 13th**
