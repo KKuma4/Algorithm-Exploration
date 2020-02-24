@@ -75,7 +75,13 @@ _left_ : R U' R' U R' U' R
 
 Sources : [Z3Cubing on Pyramix Beginner](https://www.youtube.com/watch?v=xIQtn2qazvg), [Noah Richardson on Pyramix](https://www.youtube.com/watch?v=2H0FUvaaUsI) and [Ruwix on Pyraminx Puzzle](https://ruwix.com/twisty-puzzles/pyraminx-triangle-rubiks-cube/)
 
+## 2x2x2 Rubik's Cube
 
+Number of Attempts | Average Time (seconds)
+ -------------------|---------
+5     |   55.01
+12 | 45.06
+25 | tbh
 
 
 # Daily Checklist 
