@@ -155,7 +155,7 @@ Number of Attempts | Average Time (seconds)
 
 Validated Trial 
 
-Attempt #1 | Time (seconds)
+Attempt #| Time (seconds)
  -------------------|---------
 1   |   34.908
 2 | 35.908
