@@ -67,11 +67,45 @@ Sources:
 
 ## Pyraminx
 
+Februrary 13th
+
 Number of Attempts | Average Time (seconds)
  -------------------|---------
 5     |   96.09
 12 | 81.01
 25 | 82.00
+
+Februrary 15th
+
+Number of Attempts | Average Time (seconds)
+ -------------------|---------
+5     |   120.01
+12 | 96.03
+25 | 95.00
+
+Februrary 16th
+
+Number of Attempts | Average Time (seconds)
+ -------------------|---------
+5     |   97.02
+12 | 86.01
+25 | 84.02
+
+Februrary 17th
+
+Number of Attempts | Average Time (seconds)
+ -------------------|---------
+5     |   96.56
+12 | 80.03
+
+Februrary 18th
+
+Number of Attempts | Average Time (seconds)
+ -------------------|---------
+5     |   82.03
+12 | 80.66
+
+
 ### Techniques Used : Layer By Layer 
 
 Involves finding the right sides for each color by solving for the centre pieces. No specific algorithm as this requires observation and planning ahead. 
