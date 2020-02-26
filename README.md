@@ -8,6 +8,8 @@ Will be using Markdown for this repository. Link for help in markdown : https://
 ## Pyraminx Duo
 ![Image of Pyraminx Duo](https://www.maskecubos.com/4979-large_default/lefun-pyraminx-duo.jpg)  
 
+### Daily Log 
+
 Februrary 13th
 
 Number of Attempts | Average Time (seconds)
@@ -66,6 +68,8 @@ Sources:
 [Z3Cubing on Pyramix Duo and Optimal moves!](http://youtube.com/watch?reload=9&v=P-Zt7GEyYuE), [Z3Cubing on Pyramix Duo Intermediate Method](https://www.youtube.com/watch?v=xRBGC4Bxv1w)
 
 ## Pyraminx
+
+### Daily Log 
 
 Februrary 13th
 
@@ -146,7 +150,25 @@ Number of Attempts | Average Time (seconds)
  -------------------|---------
 5     |   55.01
 12 | 45.06
-25 | tbh
+25 | 35.69
+
+
+Validated Trial 
+
+Attempt #1 | Time (seconds)
+ -------------------|---------
+1   |   34.908
+2 | 35.908
+3 | 25.251
+4 | 46.864 + 2
+5 | 37.793
+
+(+2 on unsolved cube)
+
+**Personal Best** : 25.251 seconds
+
+**Average of 3 best** : 31.689 seconds 
+
 
 
 # Daily Checklist 
