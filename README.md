@@ -32,6 +32,7 @@ Number of Attempts | Average Time (seconds)
 12 | 12.02 
 
 Februrary 16th
+
 Number of Attempts | Average Time (seconds)
  -------------------|---------
 5     |   10.02
