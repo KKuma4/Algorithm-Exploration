@@ -9,11 +9,42 @@ Will be using Markdown for this repository. Link for help in markdown : https://
 
 **Overall**
 
+Februrary 13th
+
 Number of Attempts | Average Time (seconds)
  -------------------|---------
 5     |   12.01
 12 | 12.37 
 25 | 12.37
+
+Februrary 14th
+
+Number of Attempts | Average Time (seconds)
+ -------------------|---------
+5     |   13.56
+12 | 12.58 
+
+Februrary 15th
+
+Number of Attempts | Average Time (seconds)
+ -------------------|---------
+5     |   11.47
+12 | 12.02 
+
+Februrary 16th
+Number of Attempts | Average Time (seconds)
+ -------------------|---------
+5     |   10.02
+12 | 12.05
+
+
+Februrary 19th
+
+Number of Attempts | Average Time (seconds)
+ -------------------|---------
+5     |  15.06 
+12 | 11.06 
+
 
 ### Techniques used
 
