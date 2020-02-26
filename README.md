@@ -169,7 +169,7 @@ Attempt #1 | Time (seconds)
 
 **Average of 3 best** : 31.689 seconds 
 
-
+Sources : [Z3Cubing solving 2x2x2 Beginner](https://www.youtube.com/watch?v=rJlh5p2wAKA&t=330s), [HowToWeekly on solving 2x2x2](https://www.youtube.com/watch?v=bCn8TajrPqc&t=262s)
 
 # Daily Checklist 
 **Feburary 13th**
