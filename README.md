@@ -6,7 +6,7 @@
 Will be using Markdown for this repository. Link for help in markdown : https://guides.github.com/features/mastering-markdown/. 
 
 ## Pyraminx Duo
-![Image of Pyraminx Duo] (https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.maskecubos.com%2Fen%2Fpyraminx%2F1335-lefun-pyraminx-duo.html&psig=AOvVaw021ZJ0Q7vGu-p4stdY8wxZ&ust=1582818900946000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLjXsYfK7-cCFQAAAAAdAAAAABAJ)  
+![Image of Pyraminx Duo](https://www.maskecubos.com/4979-large_default/lefun-pyraminx-duo.jpg)  
 
 Februrary 13th
 
