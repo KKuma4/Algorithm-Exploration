@@ -18,7 +18,7 @@ Attempt # | Time (seconds)
 4 | 15.19
 5 | 12.42
 
-Average of best of 5 : 160.5 seconds
+Average of best of 5 : 16.05 seconds
 
 Februrary 13th
 
