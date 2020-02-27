@@ -213,19 +213,37 @@ Attempt #| Time (seconds)
 
 **Average of 3 best** : 31.689 seconds 
 
+
+### Technique Used : 'Layer By Layer'
+
+Involves solving the white and the opposite yellow side to solve the whole cube. Mainly used by beginners to learn and get the 'feel' of the cube, eventually moving to the Ortega method and the 3x3x3.
+
+![2x2x2 First Step goal](https://www.youcandothecube.com/resources/images/solve-it/2x2-step-3-goal.jpg) 
+
+First step is to solve the white side. Pick a piece with white and place it on the 'top' of the cube. Pick another color on the same piece and white another piece with the two colors. Align the other piece to the bottom left front face of the cube. 
+
+Follow this : R' D R D' (until the pictured 'goal' is the result and repeat until the white side is solved) 
+
+![image](https://www.youcandothecube.com/resources/images/solve-it/2x2-stage-3-goal.jpg)
+
+Now solve yellow side
+* If there is one yellow piece left, then put it in bottom left. 
+* No yellow pieces shown up? Align the two yellow pieces on the sides of the cube to the left. 
+* If two yellow pieces show up, align one yellow piece on the side of the cube to left up of the yellow side. 
+
+Follow this : R U R' U R U2 R' until yellow side solves. 
+
+Lastly, solve the whole cube. 
+Go back to the white side and look at the sides of the cube. Move the sides of the cubes in such a way that one side face is solved. 
+If it does not, it does not matter and no change in the algorithm. 
+
+Make sure that the solved side, if any, is at the bottom of the cube with the white side in front.
+
+Follow this : R' U R' D2 R U' R' D2 R2
+
+Repeat if not cube not solved. 
+
+
 Sources : [Z3Cubing solving 2x2x2 Beginner](https://www.youtube.com/watch?v=rJlh5p2wAKA&t=330s), [HowToWeekly on solving 2x2x2](https://www.youtube.com/watch?v=bCn8TajrPqc&t=262s)
 
-# Daily Checklist 
-**Feburary 13th**
-- [X] Complete average of 25 for Pyramix Duo
-- [X] Start learning the 4x4x4 Pyramix 
-
-**Feburary 14th**
-- [X] Record average times of the Pyramix 
-- [X] Start practising Pyramix algorithms 
-- [X] Solve a Pyramix 
-
-**Feburary 16**
-- [ ] Start with optimal solutions of the Pyramix 
-- [ ] Record times of the Pyramix 
 
