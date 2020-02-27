@@ -146,14 +146,58 @@ Sources : [Z3Cubing on Pyramix Beginner](https://www.youtube.com/watch?v=xIQtn2q
 
 ## 2x2x2 Rubik's Cube
 
+February 20
+
 Number of Attempts | Average Time (seconds)
  -------------------|---------
-5     |   55.01
-12 | 45.06
-25 | 35.69
+5     |   120.36
+12 | 130.65
+25 | 110.25
+
+February 21
+
+Number of Attempts | Average Time (seconds)
+ -------------------|---------
+5     |  110.57
+12 | 99.36
+25 | 90.23
+
+February 22
+
+Number of Attempts | Average Time (seconds)
+ -------------------|---------
+5     |   115.77
+12 | 101.69
+25 | 99.33
+
+February 23
+
+Number of Attempts | Average Time (seconds)
+ -------------------|---------
+5     |   90.36
+12 | 85.06
+25 | 70.37
 
 
-Validated Trial 
+February 24
+
+Number of Attempts | Average Time (seconds)
+ -------------------|---------
+5     |   62.01
+12 | 70.22
+25 | 45.02
+
+February 26
+
+Number of Attempts | Average Time (seconds)
+ -------------------|---------
+5     |   55.89
+12 | 42.38
+25 | 35.99
+
+
+
+Validated Time Trial (February 26th)
 
 Attempt #| Time (seconds)
  -------------------|---------
