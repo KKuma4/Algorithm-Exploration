@@ -8,7 +8,17 @@ Will be using Markdown for this repository. Link for help in markdown : https://
 ## Pyraminx Duo
 ![Image of Pyraminx Duo](https://www.maskecubos.com/4979-large_default/lefun-pyraminx-duo.jpg)  
 
-### Daily Log 
+**Blind Solve**
+
+Attempt # | Time (seconds)
+ -------------------|---------
+1     |   20.55
+2 | 20.67
+3 | 22.88
+4 | 15.19
+5 | 12.42
+
+Average of best of 5 : 160.5 seconds
 
 Februrary 13th
 
