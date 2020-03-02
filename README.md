@@ -6,7 +6,7 @@
 Will be using Markdown for this repository. Link for help in markdown : https://guides.github.com/features/mastering-markdown/. 
 
 ## Pyraminx Duo
-![Image of Pyraminx Duo](https://www.maskecubos.com/4979-large_default/lefun-pyraminx-duo.jpg)  
+
 
 **Blind Solve**
 
