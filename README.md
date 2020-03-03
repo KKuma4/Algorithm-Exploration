@@ -254,6 +254,6 @@ Follow this : R' U R' D2 R U' R' D2 R2
 Repeat if not cube not solved. 
 
 
-Sources : [Z3Cubing solving 2x2x2 Beginner](https://www.youtube.com/watch?v=rJlh5p2wAKA&t=330s), [HowToWeekly on solving 2x2x2](https://www.youtube.com/watch?v=bCn8TajrPqc&t=262s)
+Sources : [Z3Cubing solving 2x2x2 Beginner](https://www.youtube.com/watch?v=rJlh5p2wAKA&t=330s), [HowToWeekly on solving 2x2x2](https://www.youtube.com/watch?v=bCn8TajrPqc&t=262s) and [Rubik's Cube Solver](https://rubiks-cube-solver.com/2x2/).
 
 
